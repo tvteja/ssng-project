@@ -1,3 +1,7 @@
+Cloned from https://samerabdelkafi.wordpress.com/2016/01/25/secure-angularjs-application-with-spring-security/
+
+Used for Develop Rest Client for this
+
 # ssng-project
 This is a sample project using Spring Security and AngularJs.
 
